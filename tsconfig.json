@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "module": "commonjs",
+    "lib": ["es2020"],
+    //"target": "es2020",
+    "downlevelIteration": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "outDir": "lib",
+    "sourceMap": true
+  },
+  "include": ["src/**/*", "src/index.ts"]
+}
