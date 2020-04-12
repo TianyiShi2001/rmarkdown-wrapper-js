@@ -8,6 +8,12 @@ Wrapper for R Markdown, Bookdown and Blogdown
 npm install rmarkdown
 ```
 
+## Usage 
+
+```typescript
+import { render, renderSync } from 'rmarkdown';
+```
+
 ## Demo
 
 ### Basic `.Rmd` Knitting

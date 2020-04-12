@@ -1,6 +1,6 @@
 {
   "name": "rmarkdown",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Wrapper for R Markdown and related R packages (Bookdown and Blogdown)",
   "main": "lib/index.js",
   "scripts": {
